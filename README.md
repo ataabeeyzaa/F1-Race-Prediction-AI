@@ -30,4 +30,4 @@ Model, test setindeki 320 yarış senaryosundan **319 tanesini doğru tahmin etm
 | **Gerçek: Var** | 1 (FN) | 44 (TP) |
 
 ---
-*Bu proje [Senin Adın] tarafından geliştirilmiştir.*
+*Bu proje [Beyza ATA] tarafından geliştirilmiştir.*
